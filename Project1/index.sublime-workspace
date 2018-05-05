@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"for",
+				"form-horizontal"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/bathiri/Practical/fifth.html",
+		"/E/Bathirinath/6. mySQL/12.01.2018/bathiri",
+		"/D/xampp/htdocs/bathiri/Practical/sample.json",
+		"/E/Bathirinath/4. JavaScript/22.12.2017/function.js",
+		"/E/Bathirinath/4. JavaScript/22.12.2017/form1.html",
+		"/D/xampp/htdocs/bathiri/Practical/sample1.json",
+		"/C/Users/badrinath.c/Downloads/skdslider/index.html",
+		"/D/xampp/htdocs/bathiri/Practical/datagrid2_getdata.php",
+		"/E/Bathirinath/5. jQuery/06.01.2018/script.js",
+		"/E/Bathirinath/5. jQuery/03.01.2018/student.html",
+		"/E/Bathirinath/5. jQuery/06.01.2018/form.html",
+		"/E/Bathirinath/5. jQuery/Practical/qfirst.html",
+		"/E/Bathirinath/5. jQuery/Practical/qfourth.html",
+		"/D/xampp/htdocs/bathiri/Practical/text.txt",
+		"/E/Bathirinath/5. jQuery/05.01.2018/json to table.html",
+		"/E/Bathirinath/5. jQuery/Practical/sample.json",
+		"/D/xampp/htdocs/bathiri/08.01.2018/json.html",
+		"/D/xampp/htdocs/bathiri/08.01.2018/sam.json",
+		"/C/Users/badrinath.c/Downloads/Accordion Tutorial Files - IP/index.html",
+		"/C/Users/badrinath.c/Downloads/Accordion Tutorial Files - IP/accordion.js",
+		"/D/xampp/htdocs/bathiri/06.01.2018/json.html",
+		"/D/xampp/htdocs/bathiri/08.01.2018/ex.html",
+		"/D/xampp/htdocs/bathiri/06.01.2018/ex.html",
+		"/D/xampp/htdocs/bathiri/06.01.2018/sam.json",
+		"/D/xampp/htdocs/bathiri/06.01.2018/data.json",
+		"/D/xampp/htdocs/bathiri/05.01.2018/form to table.html",
+		"/D/xampp/htdocs/bathiri/05.01.2018/json to table.html",
+		"/D/xampp/htdocs/bathiri/05.01.2018/emampl2.html",
+		"/D/xampp/htdocs/bathiri/05.01.2018/cus.html",
+		"/E/Bathirinath/5. jQuery/03.01.2018/add remove using jquery.html",
+		"/E/Bathirinath/5. jQuery/03.01.2018/add save delete using js.html",
+		"/E/Bathirinath/5. jQuery/03.01.2018/Default.htm",
+		"/E/Bathirinath/5. jQuery/03.01.2018/ex.html",
+		"/E/Bathirinath/5. jQuery/ex.html",
+		"/D/xampp/htdocs/bathiri/06.01.2018/resouce.js",
+		"/D/xampp/htdocs/bathiri/05.01.2018/ex.html",
+		"/D/xampp/htdocs/bathiri/05.01.2018/post.html",
+		"/E/Bathirinath/5. jQuery/04.01.2018/quiz.html",
+		"/D/xampp/htdocs/bathiri/05.01.2018/sample1.json",
+		"/E/Bathirinath/jQuery/ex.html",
+		"/E/Bathirinath/5. JavaScript/Practical/function.js",
+		"/E/Bathirinath/jQuery/06.01.2018/script.js",
+		"/E/Bathirinath/jQuery/06.01.2018/form.html",
+		"/E/Bathirinath/4. Bootstrap/practical/Prog1/contact.html",
+		"/E/Bathirinath/5. JavaScript/Practical/first.html",
+		"/E/Bathirinath/jQuery/06.01.2018/ex.html",
+		"/D/xampp/htdocs/bathiri/cus.html",
+		"/E/Bathirinath/4. Bootstrap/13.12.2017/form.html",
+		"/E/Bathirinath/2. CSS/07.12.2017/form.html",
+		"/E/Bathirinath/1. HTML/28.11.2017/computer.html",
+		"/D/xampp/htdocs/bathiri/post.html",
+		"/D/xampp/htdocs/bathiri/sam.txt",
+		"/D/xampp/htdocs/bathiri/sample1.json",
+		"/D/xampp/htdocs/bathiri/emampl2.html",
+		"/E/Bathirinath/jQuery/05.01.2018/cus.html",
+		"/D/xampp/htdocs/ex.html",
+		"/D/xampp/bathiri/ex.html",
+		"/E/Bathirinath/jQuery/05.01.2018/ex.html",
+		"/E/Bathirinath/jQuery/02.01.2018/bill.html",
+		"/E/Bathirinath/jQuery/04.01.2018/quiz.html",
+		"/E/Bathirinath/jQuery/03.01.2018/student.html",
+		"/E/Bathirinath/jQuery/03.01.2018/ex.html",
+		"/E/Bathirinath/jQuery/04.01.2018/ex.html",
+		"/E/Bathirinath/jQuery/04.01.2018/multipleselect.html",
+		"/C/Users/badrinath.c/Downloads/Default.htm",
+		"/E/Bathirinath/4. Bootstrap/09.12.2017/boot1.html",
+		"/C/Users/badrinath.c/Downloads/editable-html-table-js-master/index.html",
+		"/E/Bathirinath/jQuery/03.01.2018/ex",
+		"/E/Bathirinath/jQuery/03.01.2018/sum.html",
+		"/E/Bathirinath/jQuery/02.01.2018/sum.html",
+		"/E/Bathirinath/5. JavaScript/prog11.html",
+		"/E/Bathirinath/jQuery/30.12.2017/prog1.html",
+		"/E/Bathirinath/jQuery/prog1.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
